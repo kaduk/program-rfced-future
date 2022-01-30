@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-01-20T00:21:35.756776+00:00",
+  "timestamp": "2022-01-30T00:19:27.534615+00:00",
   "repo": "intarchboard/program-rfced-future",
   "labels": [
     {
@@ -4636,17 +4636,17 @@
       "id": "I_kwDODutrrM4-oSqI",
       "title": "How do we update This document?",
       "url": "https://github.com/intarchboard/program-rfced-future/issues/134",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "elear",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [
-        "Candidate Text: Consensus call started"
+        "Consensus"
       ],
       "body": "Mnot text:\r\n\r\n> Updates, amendments and refinements of this document can be produced using the process documented here, but are only operative upon agreement of the IAB, the IESG, and the IETF LLC. Note that this does not preclude such changes from being defined outside this process, so long as the same agreement is found.\r\n\r\n",
       "createdAt": "2021-11-11T09:04:01Z",
-      "updatedAt": "2022-01-08T08:27:49Z",
-      "closedAt": null,
+      "updatedAt": "2022-01-29T09:04:50Z",
+      "closedAt": "2022-01-29T09:04:50Z",
       "comments": [
         {
           "author": "elear",
@@ -4734,17 +4734,17 @@
       "id": "I_kwDODutrrM5AeBva",
       "title": "Is there a public archive for the RSAB email list?",
       "url": "https://github.com/intarchboard/program-rfced-future/issues/143",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "stpeter",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [
-        "Candidate Text: Consensus call started"
+        "Consensus"
       ],
       "body": "Raised by Brian Carpenter on list: \"As far as I can see, we don't specify whether the RSAB's mailing list does, or doesn't, have a public archive.\"",
       "createdAt": "2021-12-15T23:36:47Z",
-      "updatedAt": "2022-01-11T02:01:41Z",
-      "closedAt": null,
+      "updatedAt": "2022-01-29T09:04:51Z",
+      "closedAt": "2022-01-29T09:04:51Z",
       "comments": [
         {
           "author": "becarpenter",
@@ -4774,17 +4774,17 @@
       "id": "I_kwDODutrrM5BJFU8",
       "title": "Other modes of operation",
       "url": "https://github.com/intarchboard/program-rfced-future/issues/144",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "ekr",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [
-        "Candidate Text: Consensus call started"
+        "Consensus"
       ],
       "body": "The current document says:\r\n\r\n\r\n>  When the RSWG is formed, all discussions shall take place on an open\r\n   email discussion list, which shall be publicly archived.\r\n   Subsequently, the RSWG may decide by rough consensus to also use\r\n   additional tooling (e.g., GitHub as specified in [RFC8874]), forms of\r\n   communication (e.g., in-person or online meetings), and working\r\n   methods (e.g., design teams) as long as they are consistent with\r\n   [RFC2418].\r\n\r\nI understand that there are people who want to require a new finding of\r\nconsensus to use Github, and that's fine, but this text seems to require\r\nrough consensus to schedule a meeting -- or at least to schedule the\r\nfirst one. That seems too restrictive. If others agree, I can propose text\r\nto allow the normal IETF-like modes of operation but carve out the\r\nGithub exception.",
       "createdAt": "2022-01-03T23:48:10Z",
-      "updatedAt": "2022-01-08T08:27:49Z",
-      "closedAt": null,
+      "updatedAt": "2022-01-29T09:04:51Z",
+      "closedAt": "2022-01-29T09:04:51Z",
       "comments": [
         {
           "author": "stpeter",
@@ -4828,17 +4828,17 @@
       "id": "I_kwDODutrrM5BJF30",
       "title": "CONCERN for unaddressed comments",
       "url": "https://github.com/intarchboard/program-rfced-future/issues/145",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "ekr",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [
-        "Candidate Text: Consensus call started"
+        "Consensus"
       ],
       "body": "I apologize for the late notice, but I just noticed the following reason for a CONCERN position:\r\n\r\n>    *  Comments received during a community call for comment need to be\r\n      addressed, as described under Section 3.2.3.\r\n\r\nThis seems like it allows the RSAB to launder an objection for any reason other than the previous two (harm to a stream or the  series) by just saying that a community member objected. My memory is that that list was intended to be exclusive and so therefore I think we should strike or narrow this last reason so that the objections themselves need to be for one of the above two reasons.\r\n\r\n",
       "createdAt": "2022-01-03T23:55:21Z",
-      "updatedAt": "2022-01-08T08:27:49Z",
-      "closedAt": null,
+      "updatedAt": "2022-01-29T09:04:51Z",
+      "closedAt": "2022-01-29T09:04:51Z",
       "comments": [
         {
           "author": "ekr",
@@ -4861,17 +4861,17 @@
       "id": "I_kwDODutrrM5BJGV3",
       "title": "Core RPC responsibilities",
       "url": "https://github.com/intarchboard/program-rfced-future/issues/146",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "ekr",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [
-        "Candidate Text: Consensus call started"
+        "Consensus"
       ],
       "body": "",
       "createdAt": "2022-01-04T00:01:08Z",
-      "updatedAt": "2022-01-08T08:27:49Z",
-      "closedAt": null,
+      "updatedAt": "2022-01-29T09:04:51Z",
+      "closedAt": "2022-01-29T09:04:51Z",
       "comments": [
         {
           "author": "ekr",
@@ -4901,17 +4901,17 @@
       "id": "I_kwDODutrrM5BJGjh",
       "title": "Does the RPC create and preserve records",
       "url": "https://github.com/intarchboard/program-rfced-future/issues/147",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "ekr",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [
-        "Candidate Text: Consensus call started"
+        "Consensus"
       ],
       "body": "S 4.3 says that the RPC has the responsibility to \"Creating and preserving records of edits performed on documents.\". Does this happen now? I am not aware of where to find them.",
       "createdAt": "2022-01-04T00:02:59Z",
-      "updatedAt": "2022-01-08T08:27:49Z",
-      "closedAt": null,
+      "updatedAt": "2022-01-29T09:04:52Z",
+      "closedAt": "2022-01-29T09:04:52Z",
       "comments": [
         {
           "author": "ekr",
@@ -4955,7 +4955,7 @@
       "id": "I_kwDODutrrM5BYOFb",
       "title": "Consultation regarding the RSCE selection committee",
       "url": "https://github.com/intarchboard/program-rfced-future/issues/151",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "elear",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
@@ -4964,8 +4964,8 @@
       ],
       "body": "There has been discussion on list regarding whether the RSAB should be consulted either during or as an approval step to create the selection committee.",
       "createdAt": "2022-01-08T08:26:48Z",
-      "updatedAt": "2022-01-11T02:02:21Z",
-      "closedAt": null,
+      "updatedAt": "2022-01-29T09:05:39Z",
+      "closedAt": "2022-01-29T09:05:39Z",
       "comments": [
         {
           "author": "stpeter",
@@ -6224,7 +6224,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2022-01-19T18:23:45Z",
-      "updatedAt": "2022-01-19T18:23:45Z",
+      "updatedAt": "2022-01-29T09:09:26Z",
       "baseRepository": "intarchboard/program-rfced-future",
       "baseRefName": "master",
       "baseRefOid": "a77577b73aebc472d5febcb3f4090d7f6336af02",
@@ -6236,7 +6236,41 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDODutrrM4zq_PY",
+          "commit": {
+            "abbreviatedOid": "c9c830d"
+          },
+          "author": "elear",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2022-01-29T09:08:48Z",
+          "updatedAt": "2022-01-29T09:08:48Z",
+          "comments": [
+            {
+              "originalPosition": 45,
+              "body": "Please do not remove this text.  It has a very specific meaning, which is that a proposal may be so fundamentally problematic that the CONCERN might not be clearable.",
+              "createdAt": "2022-01-29T09:08:48Z",
+              "updatedAt": "2022-01-29T09:08:48Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDODutrrM4zq_QC",
+          "commit": {
+            "abbreviatedOid": "c9c830d"
+          },
+          "author": "elear",
+          "authorAssociation": "COLLABORATOR",
+          "state": "CHANGES_REQUESTED",
+          "body": "See comment.",
+          "createdAt": "2022-01-29T09:09:26Z",
+          "updatedAt": "2022-01-29T09:09:26Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
