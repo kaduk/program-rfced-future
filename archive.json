@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-01-30T00:19:27.534615+00:00",
+  "timestamp": "2022-02-01T00:19:21.357142+00:00",
   "repo": "intarchboard/program-rfced-future",
   "labels": [
     {
@@ -6224,13 +6224,13 @@
       "labels": [],
       "body": "",
       "createdAt": "2022-01-19T18:23:45Z",
-      "updatedAt": "2022-01-29T09:09:26Z",
+      "updatedAt": "2022-01-30T21:09:31Z",
       "baseRepository": "intarchboard/program-rfced-future",
       "baseRefName": "master",
       "baseRefOid": "a77577b73aebc472d5febcb3f4090d7f6336af02",
       "headRepository": "intarchboard/program-rfced-future",
       "headRefName": "v10-editorial",
-      "headRefOid": "c9c830d98eb6ed04b816cf18bb70045574ffad2b",
+      "headRefOid": "4e3a501018e685700262df0f4a8337db796369e9",
       "closedAt": null,
       "mergedAt": null,
       "mergedBy": null,
@@ -6268,6 +6268,39 @@
           "body": "See comment.",
           "createdAt": "2022-01-29T09:09:26Z",
           "updatedAt": "2022-01-29T09:09:26Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDODutrrM4zsHs1",
+          "commit": {
+            "abbreviatedOid": "4e3a501"
+          },
+          "author": "stpeter",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2022-01-30T20:58:03Z",
+          "updatedAt": "2022-01-30T20:58:03Z",
+          "comments": [
+            {
+              "originalPosition": 45,
+              "body": "See adjusted text in https://github.com/intarchboard/program-rfced-future/pull/153/commits/4e3a501018e685700262df0f4a8337db796369e9",
+              "createdAt": "2022-01-30T20:58:03Z",
+              "updatedAt": "2022-01-30T20:58:03Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDODutrrM4zsH86",
+          "commit": {
+            "abbreviatedOid": "4e3a501"
+          },
+          "author": "elear",
+          "authorAssociation": "COLLABORATOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2022-01-30T21:09:31Z",
+          "updatedAt": "2022-01-30T21:09:31Z",
           "comments": []
         }
       ]
