@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-02-01T00:19:21.357142+00:00",
+  "timestamp": "2022-02-03T00:19:20.758163+00:00",
   "repo": "intarchboard/program-rfced-future",
   "labels": [
     {
@@ -6217,24 +6217,26 @@
       "id": "PR_kwDODutrrM4xR7Td",
       "title": "proposed editorial fixes in -10",
       "url": "https://github.com/intarchboard/program-rfced-future/pull/153",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "stpeter",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2022-01-19T18:23:45Z",
-      "updatedAt": "2022-01-30T21:09:31Z",
+      "updatedAt": "2022-02-01T14:40:11Z",
       "baseRepository": "intarchboard/program-rfced-future",
       "baseRefName": "master",
       "baseRefOid": "a77577b73aebc472d5febcb3f4090d7f6336af02",
       "headRepository": "intarchboard/program-rfced-future",
       "headRefName": "v10-editorial",
-      "headRefOid": "4e3a501018e685700262df0f4a8337db796369e9",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "headRefOid": "fd05f83f69e959c7d05f77ecbd6c55c23eaa362e",
+      "closedAt": "2022-02-01T14:40:07Z",
+      "mergedAt": "2022-02-01T14:40:07Z",
+      "mergedBy": "stpeter",
+      "mergeCommit": {
+        "oid": "f321ae4c9cff9816aa6d49dd0460a6a6dcf2be0e"
+      },
       "comments": [],
       "reviews": [
         {
