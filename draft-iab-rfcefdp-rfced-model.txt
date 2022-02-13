@@ -3,11 +3,11 @@
 
 
 Network Working Group                                P. Saint-Andre, Ed.
-Internet-Draft                                                   Mozilla
-Obsoletes: RFC8728 (if approved)                         1 February 2022
+Internet-Draft                                          13 February 2022
+Obsoletes: RFC8728 (if approved)                                        
 Updates: RFC7841, RFC8729, RFC8730 (if approved)                        
 Intended status: Informational                                          
-Expires: 5 August 2022
+Expires: 17 August 2022
 
 
                       RFC Editor Model (Version 3)
@@ -53,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 5 August 2022.
+   This Internet-Draft will expire on 17 August 2022.
 
 Copyright Notice
 
@@ -1357,9 +1357,9 @@ Table of Contents
    [I-D.draft-carpenter-rfced-iab-charter]
               Carpenter, B. E., "IAB Charter Update for RFC Editor
               Model", Work in Progress, Internet-Draft, draft-carpenter-
-              rfced-iab-charter-04, 18 November 2021,
+              rfced-iab-charter-05, 2 February 2022,
               <https://datatracker.ietf.org/doc/html/draft-carpenter-
-              rfced-iab-charter-04>.
+              rfced-iab-charter-05>.
 
    [RFC2418]  Bradner, S., "IETF Working Group Guidelines and
               Procedures", BCP 25, RFC 2418, DOI 10.17487/RFC2418,
@@ -1458,6 +1458,5 @@ Acknowledgments
 Author's Address
 
    Peter Saint-Andre (editor)
-   Mozilla
 
    Email: stpeter@stpeter.im
